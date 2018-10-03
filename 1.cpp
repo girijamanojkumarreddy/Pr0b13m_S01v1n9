@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-int a = 10;
+int a = 10;//this is a global variable
 int main()
 {
 	using namespace std;
