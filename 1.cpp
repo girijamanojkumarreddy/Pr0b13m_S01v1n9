@@ -1,3 +1,4 @@
+//this is a c++ code
 #include<bits/stdc++.h>
 int a = 10;
 int main()
