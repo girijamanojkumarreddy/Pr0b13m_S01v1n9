@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h>//this is a header file
 int a = 10;
 int main()
 {
