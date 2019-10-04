@@ -1,4 +1,4 @@
-from math import gcd
+from math import *
 n=int(input())
 s=0
 for i in range(2,n):
