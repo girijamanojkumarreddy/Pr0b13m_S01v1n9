@@ -1,4 +1,4 @@
-import math
+from math import *
 t=int(input())
 for i in range(t):
     d=int(input())
